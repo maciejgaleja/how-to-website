@@ -60,7 +60,7 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
+title = "How - To"
 description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
